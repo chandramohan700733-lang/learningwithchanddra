@@ -1,0 +1,31 @@
+# GitHub Token Setup Guide
+
+## Token Banane Ke Steps:
+
+1. **GitHub Settings** par jao:
+   https://github.com/settings/tokens
+
+2. **"Generate new token (classic)"** click karo
+
+3. Fill karo:
+   - Token name: `my-git-token`
+   - Expiration: `Unlimited`
+   - Scopes (checkboxes):
+     - ✓ repo (full control of private repositories)
+     - ✓ workflow (update GitHub Action workflows)
+
+4. **"Generate token"** button click karo
+
+5. **IMPORTANT**: Token copy karo - ek baar hi show hoga!
+
+## Terminal Mein Token Use Karna:
+
+Jab terminal mein password puche toh:
+```
+Username for 'https://github.com': chandramohan700733-lang
+Password for 'https://chandramohan700733-lang@github.com': [paste token here]
+```
+
+Token paste karo (visible nahi hoga, type as usual)
+
+Then press Enter
