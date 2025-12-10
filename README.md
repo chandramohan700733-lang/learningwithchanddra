@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Japanese N5 Course Website
 
 Premium Japanese N5 course platform with video lessons, PDF materials, and Paytm payment integration.
@@ -184,3 +185,7 @@ For payment issues, contact: Paytm UPI - 7007337763@paytm
 ---
 
 Happy Learning! 🎓📚
+=======
+# learningwithchanddra
+Premium Japanese N5 Course Platform
+>>>>>>> 5c202811734d1461e4239ce1625df10a029b593c
